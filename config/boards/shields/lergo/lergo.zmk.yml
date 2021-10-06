@@ -1,0 +1,11 @@
+file_format: "1"
+id: lergo
+name: Lergo
+type: shield
+url: https://github.com/leighbott/zmk-config
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - lergo_left
+  - lergo_right
